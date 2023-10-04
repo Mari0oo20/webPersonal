@@ -1,0 +1,73 @@
+   body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color:#ffffff;
+    }
+    header {
+      background-color: #1561b8;
+      color: #ffffff;
+      padding: 25px;
+      text-align: center;
+    }
+    nav {
+      background-color: #000000;
+      display: flex;
+      justify-content:center;
+    }
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    nav li {
+      display: inline-block;
+      margin:   8px;
+    }
+    nav a {
+      text-decoration: none;
+      color: #ffffff;
+      padding: 15px;
+    }
+    nav a:hover {
+      background-color: #ffffff;
+    }
+    div {
+      padding: 20px;
+    }
+
+    #conoceme {
+      padding: 0px;
+      border-radius: 10px;
+      margin: 20px;
+      height: 250px;
+      background-color: rgba(49, 123, 212, 0.925);
+      color: white;
+      box-shadow: rgb(0, 25, 248) 0px 7px 29px 0px;
+    }
+
+    #llamame {
+      display: flex;
+    }
+
+    #productos{
+      
+      text-align: center;
+    }
+    #movil{
+      
+      text-align: center;
+    }
+
+    #tabla_div {
+      display: flex;
+      justify-content: center;
+      align-self: center;
+    }
+
+    #tabla_moviles {
+      text-align: center;
+    }
+    #mac {
+      display: flex;
+    }
